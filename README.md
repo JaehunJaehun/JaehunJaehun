@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Profile**
+# **😄 Profile**
   **Name**         `김재훈`
   <br>
   **Birth**         `1998/10/28`
