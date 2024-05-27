@@ -1,6 +1,8 @@
 <div align="center">
 
 # **Profile**
+  **Name**         `김재훈`
+  <br>
   **Birth**         `1998/10/28`
   <br>
   **TEL**           `010-3582-0486`
@@ -53,16 +55,15 @@
 **정보처리기사**(합격하고싶어요)
 <br><br>
 
-# **👨🏻‍💻 Project Summary**
+# **👨🏻‍💻 Project**
 
 | Title | Introduction | Type |
 | ------------- | ------------- | ------------- |
 | <a href="">Weeting</a> | 친목 도모용 채팅 서비스 | 삼성 청년 SW아카데미 2학기 자율 프로젝트 |
 | <a href="">Perfect Fit</a> | 음정 자동 조절 노래방 서비스 | 삼성 청년 SW아카데미 2학기 특화 프로젝트 |
 | <a href="">PlanCard</a> | 여행 계획 플래너 | 삼성 청년 SW아카데미 2학기 공통 프로젝트 |
-
-
 <br><br>
+# **🔗 Algorithm**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sirika2547)](https://solved.ac/sirika2547/) 
 
