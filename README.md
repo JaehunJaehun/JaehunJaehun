@@ -63,7 +63,8 @@
 | <a href="">Perfect Fit</a> | 음정 자동 조절 노래방 서비스 | 삼성 청년 SW 아카데미 2학기 특화 프로젝트 |
 | <a href="">PlanCard</a> | 여행 계획 플래너 | 삼성 청년 SW 아카데미 2학기 공통 프로젝트 |
 
-<br><br>
+<br>
+
 # **🔗 Algorithm**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sirika2547)](https://solved.ac/sirika2547/) 
