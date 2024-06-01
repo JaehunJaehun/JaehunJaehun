@@ -4,12 +4,6 @@
   **Name**         `김재훈`
   <br>
   **Birth**         `1998/10/28`
-  <br>
-  **TEL**           `010-3582-0486`
-  <br>
-  **E-MAIL**        `sirika2547@gmail.com`
-  <br>
-  **University**    `조선대학교 전기공학과 졸업`
   <br><br>
 
 
