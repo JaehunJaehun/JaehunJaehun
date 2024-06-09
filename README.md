@@ -37,27 +37,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<br></br>
-
-# **🎓 EXPERIENCE**
-2023.07 ~ 2024.06 : **삼성 청년 SW아카데미 10기**
 <br><br>
 
-# **🏆 Awards / Certificates**
-**SQLD**(합격하고싶어요)
-<br>
-**정보처리기사**(합격하고싶어요)
-<br><br>
-
-# **👨🏻‍💻 Project**
-
-| Title | Introduction | Type |
-| ------------- | ------------- | ------------- |
-| <a href="">Weeting</a> | 친목 도모용 채팅 서비스 | 삼성 청년 SW 아카데미 2학기 자율 프로젝트 |
-| <a href="">Perfect Fit</a> | 음정 자동 조절 노래방 서비스 | 삼성 청년 SW 아카데미 2학기 특화 프로젝트 |
-| <a href="">PlanCard</a> | 여행 계획 플래너 | 삼성 청년 SW 아카데미 2학기 공통 프로젝트 |
-
-<br>
 
 # **🔗 Algorithm**
 
