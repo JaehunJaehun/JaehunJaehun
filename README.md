@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <br><br>
 
-
-# **🔗 Algorithm**
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sirika2547)](https://solved.ac/sirika2547/) 
 
 
